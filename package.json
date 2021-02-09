@@ -1,0 +1,23 @@
+{
+  "name": "warchest",
+  "version": "0.1.0",
+  "description": "A library of UI components to use with (Viking)[https://vikingjs.org]",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bemky/warchest.git"
+  },
+  "keywords": [
+    "ui",
+    "components"
+  ],
+  "author": "Ben Ehmke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bemky/warchest/issues"
+  },
+  "homepage": "https://github.com/bemky/warchest#readme"
+}
